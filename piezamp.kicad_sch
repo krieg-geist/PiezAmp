@@ -5,13 +5,12 @@
 	(uuid "17375b24-8b82-4cd7-b906-549a44b284a2")
 	(paper "A3")
 	(title_block
-		(title "Dual Piezo Preamp (NE5532)")
+		(title "PiezAmp")
 		(date "2026-09-25")
-		(rev "0.1")
-		(company "Peek Robotics")
-		(comment 1 "Copyright 2026")
-		(comment 2 "Designed by: Laurence")
-		(comment 3 "See PLAN.md for design rationale")
+		(rev "1.0")
+		(company "GOBLINOMIX HEAVY INDUSTRIES")
+		(comment 1 "Based off Richard Mudhar's design")
+		(comment 2 "https://www.richardmudhar.com/blog/piezo-contact-microphone-hi-z-amplifier-low-noise-version/")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:NE5532"
@@ -3509,6 +3508,54 @@
 			)
 			(embedded_fonts no)
 		)
+	)
+	(rectangle
+		(start 13.97 36.83)
+		(end 128.27 95.25)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "7c495c84-622a-4972-9d66-98a0ba46e771")
+	)
+	(rectangle
+		(start 186.69 77.47)
+		(end 294.64 120.65)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "91cfae45-4680-4e3d-9002-e12d7d8da8d9")
+	)
+	(rectangle
+		(start 13.97 96.52)
+		(end 127 171.45)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "a8cc45e6-13e0-4595-92bb-e40b0525b395")
+	)
+	(rectangle
+		(start 128.27 111.76)
+		(end 198.12 153.67)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "bf13b06a-2ed1-41c7-b6ef-b1d8c343d5e9")
 	)
 	(text "High-cut (LPF) fc = 1 / (2 pi (RV4 + blend source) C40) = 27 kHz...34 Hz, CW = more cut\nR40 isolates C40 from A_OUT in stereo mode"
 		(exclude_from_sim no)
