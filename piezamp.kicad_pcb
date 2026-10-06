@@ -691,15 +691,15 @@
 			(uuid "b6501239-4ea1-4395-a6e1-570720289dcc")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Runtron_RM-065_Vertical.step"
+		(model "${KIPRJMOD}/3dmodels/RM065.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 2.5 -1.1 -0.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -1324,15 +1324,15 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Alps_RK09K_Single_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/2-1879325-9.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -20 -2.5 7)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 90)
 			)
 		)
 	)
@@ -3169,6 +3169,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4372,15 +4373,15 @@
 			(uuid "c7edc86a-9bf4-40f2-8fd5-fc58b80387d3")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Runtron_RM-065_Vertical.step"
+		(model "${KIPRJMOD}/3dmodels/RM065.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 2.5 -1.1 -0.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -5269,15 +5270,15 @@
 			(uuid "4879b374-f7ca-4864-a085-9c36eb46b977")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Runtron_RM-065_Vertical.step"
+		(model "${KIPRJMOD}/3dmodels/RM065.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 2.5 -1.1 -0.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -7321,6 +7322,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8701,6 +8703,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10856,15 +10859,15 @@
 			(uuid "627dbc71-6341-4ff3-8abc-c997a4d1bc68")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Potentiometer_THT.3dshapes/Potentiometer_Runtron_RM-065_Vertical.step"
+		(model "${KIPRJMOD}/3dmodels/RM065.STEP"
 			(offset
-				(xyz 0 0 0)
+				(xyz 2.5 -1.1 -0.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -11325,15 +11328,15 @@
 			(uuid "40b7db8d-e15b-4017-bee2-4c87e30801f8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_Audio.3dshapes/Jack_6.35mm_Neutrik_NMJ6HCD2_Horizontal.step"
+		(model "${KIPRJMOD}/3dmodels/NMJ6HCD2.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz 16.5 -8.115 0.45)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz 90 -180 90)
 			)
 		)
 	)
@@ -11702,6 +11705,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)

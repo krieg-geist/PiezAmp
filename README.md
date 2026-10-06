@@ -8,6 +8,8 @@ Based on Richard Mudhar's
 [low-noise piezo preamp](http://www.richardmudhar.com/blog/piezo-contact-microphone-hi-z-amplifier-low-noise-version/),
 doubled up and extended. 
 
+![PiezAmp PCB](piezamp.png)
+
 ## Features
 
 - **1 MΩ inputs.** Piezo discs have waaaay too high impedance for line inputs.
@@ -29,6 +31,7 @@ doubled up and extended.
 
 ## How it works
 
+- I tried to annotate the schematic pretty good — see the [annotated schematic (piezamp.pdf)](piezamp.pdf)
 - Read [Richard Mudhar's blog](http://www.richardmudhar.com/blog/piezo-contact-microphone-hi-z-amplifier-low-noise-version/) lol
 
 ## Connections
