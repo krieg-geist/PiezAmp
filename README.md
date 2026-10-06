@@ -12,15 +12,15 @@ doubled up and extended.
 
 ## Features
 
-- **1 MΩ inputs.** Piezo discs have waaaay too high impedance for line inputs.
+- **Nice opamp buffered Hi-Z inputs.** Piezo discs have waaaay too high impedance for line inputs.
   At 1 MΩ they keep their full THICCNESS (results may vary with piezo guitar pickups, 
   this is mainly designed for cheap discs).
-- **Gain:** ×2 to ×12 (+6 to +21.6 dB) per channel.
+- **Gain control:** ×2 to ×12 (+6 to +21.6 dB) per channel.
 - **Low noise:** about −119 dBu with a 15 nF disc, inshallah.
-- **Blend** between channel A and channel B.
-- **Phase invert.** This might help when you have two piezos in the same box so 
-  they don't phase cancel eachother out
-- **High-cut  filter** from about 27 kHz down to about 34 Hz.
+- **Blend** between both piezos to get the perfect noize.
+- **Phase invert:** This might help when you have two piezos in the same box so 
+  they don't phase cancel eachother out.
+- **Lowpass  filter** from about 27 kHz down to about 34 Hz, get rid of any remaining tinny-ness.
 - **Master volume** with a 9 mm panel pot. It shoooould (?) mount in line with the output
   jack.
 - **Mono or stereo output** on a TRS jack. Using it in stereo mode bypasses the
@@ -31,7 +31,7 @@ doubled up and extended.
 
 ## How it works
 
-- I tried to annotate the schematic pretty good — see the [annotated schematic (piezamp.pdf)](piezamp.pdf)
+- I tried to annotate the schematic pretty good — see the [annotated schematic](piezamp.pdf)
 - Read [Richard Mudhar's blog](http://www.richardmudhar.com/blog/piezo-contact-microphone-hi-z-amplifier-low-noise-version/) lol
 
 ## Connections
@@ -59,7 +59,9 @@ If you don't want an on/off switch, just connect the switch terminal with a piec
 | High-cut | 27 kHz -> 34 Hz, CW = more cut |
 | Master volume | CW = louder |
 
-**DIP switch SW2** (set with the power off):
+""Note:"" if you want to wire the filter to an external pot, you should probably use a Log taper one (1M-A). Linear is okay for trim, but the usable range is reallllly small. Same applies for the volume too, but less dramatic.
+
+**DIP switch SW2**:
 
 | Pos | Function | Mono | Stereo |
 |---|---|---|---|
