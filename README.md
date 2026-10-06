@@ -12,12 +12,12 @@ doubled up and extended.
 
 ## Features
 
-- **Nice opamp buffered Hi-Z inputs.** Piezo discs have waaaay too high impedance for line inputs.
-  At 1 MΩ they keep their full THICCNESS (results may vary with piezo guitar pickups, 
+- **Nice opamp buffered Hi-Z inputs.** Piezo discs have way too high impedance for line inputs.
+  At 1 MΩ they keep their full thiccness (results may vary with piezo guitar pickups, 
   this is mainly designed for cheap discs).
 - **Gain control:** ×2 to ×12 (+6 to +21.6 dB) per channel.
 - **Low noise:** about −119 dBu with a 15 nF disc, inshallah.
-- **Blend** between both piezos to get the perfect noize.
+- **Blend** between both piezos to dial in the perfect noize.
 - **Phase invert:** This might help when you have two piezos in the same box so 
   they don't phase cancel eachother out.
 - **Lowpass  filter** from about 27 kHz down to about 34 Hz, get rid of any remaining tinny-ness.
@@ -46,7 +46,7 @@ doubled up and extended.
 | J3 | Output, 6.35 mm TRS | tip = mono / A | ring = B (stereo) | sleeve = GND |
 
 The inputs are 2-pin headers. You can put jacks on em or just wire the piezos directly
-to the inputs. Polarity shouldn't matter.
+to the inputs. **MAKE SURE THE BLACK LEAD** (or the one connected to the brass disc) **GOES TO GND** - polarity does, in fact matter here.
 
 If you don't want an on/off switch, just connect the switch terminal with a piece of wire or something
 

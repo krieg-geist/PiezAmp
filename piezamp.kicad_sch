@@ -5420,7 +5420,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "01668cf9-4be8-4350-a944-a121ecedeb8a")
-		(property "Reference" "R23"
+		(property "Reference" "R9"
 			(at 86.36 131.445 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5482,7 +5482,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R23")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -5499,7 +5499,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "027e3425-c2bd-42d3-a33a-5cb34c16c56b")
-		(property "Reference" "C41"
+		(property "Reference" "C16"
 			(at 234.95 62.23 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5561,7 +5561,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C41")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -5578,7 +5578,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "05e7f6e3-2b6b-4e13-8386-d8ae45840191")
-		(property "Reference" "R24"
+		(property "Reference" "R13"
 			(at 121.92 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5642,7 +5642,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R24")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -5659,7 +5659,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0becec09-ee95-4b00-a8a1-02500b5f2535")
-		(property "Reference" "C34"
+		(property "Reference" "C11"
 			(at 137.16 207.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5723,7 +5723,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C34")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -5740,7 +5740,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0fc623f9-1bec-48cd-8739-99e2bc09b40d")
-		(property "Reference" "R14"
+		(property "Reference" "R12"
 			(at 121.92 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5804,7 +5804,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R14")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -5900,7 +5900,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "17d8288c-aa2d-45a7-a811-3259f33fcf7c")
-		(property "Reference" "R11"
+		(property "Reference" "R3"
 			(at 73.66 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5964,7 +5964,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R11")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -6079,7 +6079,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1d3db21f-1ed5-49b7-a16d-35061a02a46e")
-		(property "Reference" "#PWR008"
+		(property "Reference" "#PWR010"
 			(at 78.74 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -6139,7 +6139,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR008")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -6156,7 +6156,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "21e74bb9-2c27-4338-98c4-553be6e41b72")
-		(property "Reference" "R32"
+		(property "Reference" "R11"
 			(at 104.14 207.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6220,7 +6220,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R32")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -6237,7 +6237,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "22a030d7-4c80-40e1-a5c3-5008d6618718")
-		(property "Reference" "C11"
+		(property "Reference" "C3"
 			(at 81.28 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6301,7 +6301,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C11")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -6318,7 +6318,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2984682b-259c-4d46-b0cf-75049d73771a")
-		(property "Reference" "#PWR002"
+		(property "Reference" "#PWR05"
 			(at 62.23 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -6378,7 +6378,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR002")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -6395,7 +6395,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2b3e0f1e-f19f-4132-9649-595d868d07b9")
-		(property "Reference" "R30"
+		(property "Reference" "R7"
 			(at 78.74 187.325 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6457,7 +6457,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R30")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -6474,7 +6474,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "308906ed-b721-4cc8-9ec9-321357af86ec")
-		(property "Reference" "R31"
+		(property "Reference" "R10"
 			(at 104.14 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6538,7 +6538,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R31")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -6555,7 +6555,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "30fc0556-69b4-42e9-a31a-58232e64eb2f")
-		(property "Reference" "D10"
+		(property "Reference" "D1"
 			(at 64.77 38.1 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6619,7 +6619,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "D10")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -6636,7 +6636,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "34e84c87-390f-4c50-94c1-138211032ea4")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR04"
 			(at 55.88 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -6696,7 +6696,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR020")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -6713,7 +6713,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "392f1d18-41fe-4b28-ae04-9fe9c488c07a")
-		(property "Reference" "#FLG01"
+		(property "Reference" "#FLG02"
 			(at 82.55 194.945 0)
 			(hide yes)
 			(show_name no)
@@ -6774,7 +6774,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#FLG01")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -6791,7 +6791,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "39730452-834a-496c-9915-732150b176bd")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG01"
 			(at 55.88 212.725 0)
 			(hide yes)
 			(show_name no)
@@ -6851,7 +6851,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#FLG02")
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -6868,7 +6868,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3dbbe067-31a9-450a-a4cf-8daff8eab234")
-		(property "Reference" "C10"
+		(property "Reference" "C1"
 			(at 41.91 43.815 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6930,7 +6930,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C10")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -7047,7 +7047,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3fe050a2-d5b6-49bf-ba39-ee470b383324")
-		(property "Reference" "GAIN_A"
+		(property "Reference" "GAIN_A1"
 			(at 103.505 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7114,7 +7114,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "GAIN_A")
+					(reference "GAIN_A1")
 					(unit 1)
 				)
 			)
@@ -7218,6 +7218,164 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 22.86 124.46 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "48b5b61b-8e3e-4791-ad0b-4b3d4cd2238a")
+		(property "Reference" "J2"
+			(at 22.86 130.81 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Piezo B"
+			(at 22.86 128.27 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 22.86 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 22.86 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 22.86 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d5332026-6da7-489b-a868-62b3c4daed4e")
+		)
+		(pin "2"
+			(uuid "e165457d-4016-4f04-9709-5c18780179ec")
+		)
+		(instances
+			(project "piezamp"
+				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 22.86 49.53 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4bb88255-25cd-4d83-9096-1604b6fbc995")
+		(property "Reference" "J1"
+			(at 22.86 55.88 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Piezo A"
+			(at 22.86 53.34 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 22.86 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 22.86 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 22.86 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6f6ae551-aea4-4fa5-9222-e6e8e22ec6f8")
+		)
+		(pin "2"
+			(uuid "a4f039ea-c0e9-43c6-88ed-c4f1a1cf8d6a")
+		)
+		(instances
+			(project "piezamp"
+				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 53.34 121.92 90)
 		(unit 1)
@@ -7228,7 +7386,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4fd81ce7-ca80-4a78-94e7-7ec894df4fed")
-		(property "Reference" "R20"
+		(property "Reference" "R2"
 			(at 53.34 118.745 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7290,7 +7448,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R20")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -7307,7 +7465,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "53d8f4f5-5aef-4210-ae23-6facc3a9b11a")
-		(property "Reference" "C32"
+		(property "Reference" "C15"
 			(at 208.28 199.39 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7371,7 +7529,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C32")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -7388,7 +7546,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "570fbee2-5d9d-4471-bb9d-4445f2429d2a")
-		(property "Reference" "BLEND"
+		(property "Reference" "BLEND1"
 			(at 171.45 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7455,7 +7613,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "BLEND")
+					(reference "BLEND1")
 					(unit 1)
 				)
 			)
@@ -7472,7 +7630,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5b61c201-3f6d-4be7-b546-345d22660856")
-		(property "Reference" "D21"
+		(property "Reference" "D4"
 			(at 59.69 128.27 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7536,7 +7694,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "D21")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -7553,7 +7711,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5d8de10c-3096-4a9c-a4c1-3b532ca3e74c")
-		(property "Reference" "GAIN_B"
+		(property "Reference" "GAIN_B1"
 			(at 103.505 133.35 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7620,7 +7778,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "GAIN_B")
+					(reference "GAIN_B1")
 					(unit 1)
 				)
 			)
@@ -7637,7 +7795,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5dfab490-4fec-496c-b52b-2af3918320e7")
-		(property "Reference" "#PWR007"
+		(property "Reference" "#PWR08"
 			(at 62.23 127 0)
 			(hide yes)
 			(show_name no)
@@ -7697,7 +7855,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR007")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -7714,7 +7872,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "604bede9-f23e-41cc-9aaf-985dc302bca1")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR014"
 			(at 111.76 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -7774,7 +7932,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR017")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -7791,7 +7949,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "62b6db31-ae5c-4fd0-88fa-008f5bc494d3")
-		(property "Reference" "R21"
+		(property "Reference" "R4"
 			(at 73.66 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7855,7 +8013,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R21")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -7872,7 +8030,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6615ede5-193c-47ad-93cf-80855ee89ca6")
-		(property "Reference" "R12"
+		(property "Reference" "R5"
 			(at 81.28 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7936,7 +8094,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R12")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -7953,7 +8111,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "69a8186a-0e9d-499f-b63f-80d9b713665f")
-		(property "Reference" "LPF"
+		(property "Reference" "LPF1"
 			(at 181.61 66.675 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8018,7 +8176,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "LPF")
+					(reference "LPF1")
 					(unit 1)
 				)
 			)
@@ -8035,7 +8193,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6a87f2aa-a9dc-429d-b927-200c9658e0a4")
-		(property "Reference" "C30"
+		(property "Reference" "C5"
 			(at 85.725 195.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8099,7 +8257,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C30")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -8213,7 +8371,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6d58cbf8-4432-4e41-bdca-dbd127f39fa7")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR013"
 			(at 101.6 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -8273,88 +8431,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 22.86 121.92 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7050c6dc-efff-42e1-99f9-45c4b6790ac9")
-		(property "Reference" "J6"
-			(at 22.86 115.57 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Piezo B"
-			(at 22.86 118.11 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 22.86 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 22.86 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 22.86 121.92 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8773081b-776d-4f2e-b4b3-c975df047a19")
-		)
-		(pin "2"
-			(uuid "89e12683-03e7-43be-8268-8100a9ea6f68")
-		)
-		(instances
-			(project "piezamp"
-				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "J6")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -8371,7 +8448,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "70644610-6f24-4edd-88c3-1f710ae00bf1")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR016"
 			(at 167.64 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -8431,7 +8508,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR021")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -8448,7 +8525,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "715ef7c8-44a6-4786-bab9-584fe3f0f673")
-		(property "Reference" "#PWR004"
+		(property "Reference" "#PWR09"
 			(at 78.74 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -8508,7 +8585,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR004")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -8525,7 +8602,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71ab05ef-8b72-40c5-b7ec-a66cbd200477")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR012"
 			(at 101.6 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -8585,7 +8662,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR014")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -8602,7 +8679,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "732483d2-83c1-4dd0-a8a1-148ea2aa1624")
-		(property "Reference" "D1"
+		(property "Reference" "D5"
 			(at 66.04 189.865 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8664,7 +8741,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "D1")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -8681,7 +8758,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "784d67c1-f162-4a3e-95b3-08dc30c18ae3")
-		(property "Reference" "#PWR009"
+		(property "Reference" "#PWR021"
 			(at 246.38 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -8741,7 +8818,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR009")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -8758,7 +8835,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7abfdccb-4eb5-4704-bf07-eeedd85add96")
-		(property "Reference" "C23"
+		(property "Reference" "C9"
 			(at 110.49 120.65 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8820,7 +8897,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C23")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -8837,7 +8914,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "832e1d2b-a08c-4d6f-b569-d579b40c3ccf")
-		(property "Reference" "C42"
+		(property "Reference" "C14"
 			(at 201.93 118.745 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8899,7 +8976,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C42")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -8916,7 +8993,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "84b5ea74-368b-49eb-997b-c4af9b61b6f2")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR03"
 			(at 33.02 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -8976,7 +9053,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR011")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -8993,7 +9070,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8a0bfaf6-f291-4114-bc78-3ece90ba5ad7")
-		(property "Reference" "C33"
+		(property "Reference" "C10"
 			(at 114.3 207.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9057,7 +9134,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C33")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -9074,7 +9151,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "900eb5d7-e3a6-4ed5-a7b6-c93b9a40d2ea")
-		(property "Reference" "C20"
+		(property "Reference" "C2"
 			(at 41.91 118.745 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9136,7 +9213,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C20")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -9153,7 +9230,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9727a64d-ffcb-413a-8b44-4f8f21044d0e")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR017"
 			(at 167.64 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -9213,7 +9290,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR022")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -9230,7 +9307,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9c2cbbf4-4ba8-4dcd-bf80-7a3a9326d5ff")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR019"
 			(at 195.58 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -9290,7 +9367,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR023")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -9307,7 +9384,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a07baefd-1afe-493e-99f4-cf7a0c1fda90")
-		(property "Reference" "#PWR003"
+		(property "Reference" "#PWR06"
 			(at 62.23 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -9367,88 +9444,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR003")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 22.86 46.99 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a1d46304-6863-4d33-9d23-bea1af1b8ef1")
-		(property "Reference" "J5"
-			(at 22.86 40.64 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Piezo A"
-			(at 22.86 43.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 22.86 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 22.86 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 22.86 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "23cd7991-a6f0-476a-88c8-9ddd6f517d56")
-		)
-		(pin "2"
-			(uuid "098ca495-b29c-45fa-bedc-6521196eddf3")
-		)
-		(instances
-			(project "piezamp"
-				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "J5")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -9659,7 +9655,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a6c25d32-3d0c-4613-a8e2-f8ba5ca82e2a")
-		(property "Reference" "R33"
+		(property "Reference" "R14"
 			(at 123.19 200.025 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9721,7 +9717,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R33")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -9738,7 +9734,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a6c2fbc5-00d5-4aae-a915-5f2ff2f8bb2f")
-		(property "Reference" "R40"
+		(property "Reference" "R19"
 			(at 193.04 60.325 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9800,7 +9796,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R40")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -9817,7 +9813,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ab0ede3d-a1d7-479d-afbd-1760272b6527")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR011"
 			(at 87.63 194.31 0)
 			(hide yes)
 			(show_name no)
@@ -9877,7 +9873,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR015")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -9894,7 +9890,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b0fe45a0-60f2-4803-b542-e6abf50f4206")
-		(property "Reference" "C12"
+		(property "Reference" "C6"
 			(at 90.17 64.135 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9956,88 +9952,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 27.94 193.04 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b251e79a-6b9a-4f04-9b60-6a412a2c3edb")
-		(property "Reference" "J4"
-			(at 27.94 186.69 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Power_Conn"
-			(at 27.94 189.23 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 27.94 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 27.94 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 27.94 193.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "cca32db3-2269-4bb3-a07a-2a181c6c8d46")
-		)
-		(pin "2"
-			(uuid "b13c462b-2dc2-4d3d-8cbf-ec9ec228a178")
-		)
-		(instances
-			(project "piezamp"
-				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "J4")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -10054,7 +9969,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b4214f17-091e-4dcf-bad8-a09615a7381c")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR020"
 			(at 195.58 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -10114,7 +10029,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR024")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -10131,7 +10046,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b942a44e-2847-43ae-9d08-4bf112af50d7")
-		(property "Reference" "D20"
+		(property "Reference" "D3"
 			(at 64.77 113.03 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10195,7 +10110,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "D20")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -10212,7 +10127,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bf8ba093-aaa6-4ba9-89f3-15dee1bcd143")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR022"
 			(at 254 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -10272,7 +10187,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR010")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -10289,7 +10204,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cef3f4c8-319f-4807-aeb9-72a9c2bc5fd9")
-		(property "Reference" "R41"
+		(property "Reference" "R20"
 			(at 223.52 62.865 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10351,7 +10266,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R41")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -10368,7 +10283,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d1ea5a49-f84a-4b08-8976-58e5f2b813be")
-		(property "Reference" "#PWR005"
+		(property "Reference" "#PWR02"
 			(at 31.75 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -10428,7 +10343,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR005")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -10446,7 +10361,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d5f9c18a-12bf-49a6-81f1-66bb57bc7fdb")
-		(property "Reference" "R27"
+		(property "Reference" "R16"
 			(at 140.97 127.635 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10508,7 +10423,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R27")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -10525,7 +10440,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9c06407-58b0-48a0-8db8-3133e7f51552")
-		(property "Reference" "R10"
+		(property "Reference" "R1"
 			(at 53.34 43.815 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10587,7 +10502,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R10")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -10604,7 +10519,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dd489a70-40a7-4adc-8a1c-6011e41a0da8")
-		(property "Reference" "C22"
+		(property "Reference" "C7"
 			(at 90.17 139.065 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10666,7 +10581,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C22")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -10683,7 +10598,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e025e5c6-b147-4e44-8be3-adce0ea1572b")
-		(property "Reference" "R42"
+		(property "Reference" "R18"
 			(at 190.5 118.745 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10745,7 +10660,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R42")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -10762,7 +10677,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e179b38a-45db-4f51-9fea-bd3fd11f1fae")
-		(property "Reference" "C13"
+		(property "Reference" "C8"
 			(at 110.49 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10824,7 +10739,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C13")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -10941,7 +10856,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e2e55c94-5cdf-44f8-a4a6-e5c30f970b53")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR018"
 			(at 187.96 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -11001,7 +10916,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR025")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -11018,7 +10933,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed9aa0a1-0dfb-4fd0-91f2-cd638b06add5")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR015"
 			(at 134.62 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -11078,7 +10993,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR018")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -11096,7 +11011,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f00cb1f6-72b7-42e3-9cb3-f4268a8333ed")
-		(property "Reference" "MASTER_VOL"
+		(property "Reference" "MASTER_VOL1"
 			(at 244.602 73.152 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11163,7 +11078,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "MASTER_VOL")
+					(reference "MASTER_VOL1")
 					(unit 1)
 				)
 			)
@@ -11180,7 +11095,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f06a0317-547b-4144-b48f-da3183aacbcf")
-		(property "Reference" "#PWR006"
+		(property "Reference" "#PWR07"
 			(at 62.23 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -11240,7 +11155,86 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR006")
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 27.94 195.58 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f08a9c4c-7dd2-4d2f-b176-492bb25bf400")
+		(property "Reference" "J3"
+			(at 27.94 201.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Power_Conn"
+			(at 27.94 189.738 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 27.94 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 27.94 195.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c3befa6a-2555-46a0-852d-9f236b936b9c")
+		)
+		(pin "2"
+			(uuid "0c7490a3-5e4f-47e0-ab4e-90f4043b1500")
+		)
+		(instances
+			(project "piezamp"
+				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -11257,7 +11251,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f2940c4d-8efb-44f4-ad86-fa5e8e853845")
-		(property "Reference" "R13"
+		(property "Reference" "R8"
 			(at 86.36 56.515 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11319,7 +11313,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R13")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -11336,7 +11330,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f4775476-6208-46a3-a009-8cfdf922ea0b")
-		(property "Reference" "R22"
+		(property "Reference" "R6"
 			(at 81.28 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11400,7 +11394,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R22")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -11417,7 +11411,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f5cd0005-6fc9-4810-b97f-b86aaa95006f")
-		(property "Reference" "C31"
+		(property "Reference" "C12"
 			(at 180.34 199.39 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11481,7 +11475,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C31")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -11498,7 +11492,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f6ff3184-26d0-4597-a1d5-ee641d825dec")
-		(property "Reference" "J3"
+		(property "Reference" "J4"
 			(at 261.62 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11569,7 +11563,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "J3")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -11587,7 +11581,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f7425eb2-49a7-43c3-8fa0-71435c072ad4")
-		(property "Reference" "R25"
+		(property "Reference" "R15"
 			(at 140.97 114.935 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11649,7 +11643,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R25")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -11667,7 +11661,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fb49bb66-dcd1-4c0b-9c02-61f407a4a3df")
-		(property "Reference" "R26"
+		(property "Reference" "R17"
 			(at 160.02 114.935 270)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11729,7 +11723,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "R26")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -11746,7 +11740,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fbca4bb8-fc7a-4aca-9e0d-ec8dfb9188c1")
-		(property "Reference" "C40"
+		(property "Reference" "C13"
 			(at 187.96 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11808,7 +11802,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C40")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -11825,7 +11819,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fccd8ff4-c5cb-473e-add8-61a447d17710")
-		(property "Reference" "D11"
+		(property "Reference" "D2"
 			(at 59.69 53.34 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11889,7 +11883,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "D11")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -11906,7 +11900,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ff358d5c-1108-465a-a1da-4285b8d68463")
-		(property "Reference" "#PWR001"
+		(property "Reference" "#PWR01"
 			(at 31.75 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -11966,7 +11960,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "#PWR001")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -11983,7 +11977,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ff85821f-5b70-4e3a-8597-5eb932a81d69")
-		(property "Reference" "C21"
+		(property "Reference" "C4"
 			(at 81.28 158.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12047,7 +12041,7 @@
 		(instances
 			(project "piezamp"
 				(path "/17375b24-8b82-4cd7-b906-549a44b284a2"
-					(reference "C21")
+					(reference "C4")
 					(unit 1)
 				)
 			)
