@@ -1,0 +1,120 @@
+COMP C10 1uF Capacitor_SMD:C_0805_2012Metric
+COMP C11 22uf Capacitor_SMD:C_1206_3216Metric
+COMP C12 100pf Capacitor_SMD:C_0603_1608Metric
+COMP C13 10uF Capacitor_SMD:C_0805_2012Metric
+COMP C20 1uF Capacitor_SMD:C_0805_2012Metric
+COMP C21 22uf Capacitor_SMD:C_1206_3216Metric
+COMP C22 100pf Capacitor_SMD:C_0603_1608Metric
+COMP C23 10uF Capacitor_SMD:C_0805_2012Metric
+COMP C30 22uf Capacitor_SMD:C_1206_3216Metric
+COMP C31 100nF Capacitor_SMD:C_0603_1608Metric
+COMP C32 100nF Capacitor_SMD:C_0603_1608Metric
+COMP C33 22uf Capacitor_SMD:C_1206_3216Metric
+COMP C34 10uF Capacitor_SMD:C_0805_2012Metric
+COMP C40 1.5nF C0G Capacitor_SMD:C_0603_1608Metric
+COMP C41 10uF Capacitor_SMD:C_0805_2012Metric
+COMP C42 10uF Capacitor_SMD:C_0805_2012Metric
+COMP C43 100nF C0G Capacitor_SMD:C_1206_3216Metric
+COMP C44 2.2nF C0G Capacitor_SMD:C_0603_1608Metric
+COMP C45 10uF Capacitor_SMD:C_0805_2012Metric
+COMP C50 100nF Capacitor_SMD:C_0603_1608Metric
+COMP C51 100nF Capacitor_SMD:C_0603_1608Metric
+COMP C52 220nF Capacitor_SMD:C_0603_1608Metric
+COMP D1 1N5819WS Diode_SMD:D_SOD-123
+COMP D10 BAV99 Package_TO_SOT_SMD:SOT-23
+COMP D20 BAV99 Package_TO_SOT_SMD:SOT-23
+COMP D50 BAV99 Package_TO_SOT_SMD:SOT-23
+COMP J3 Output (TRS) Connector_Audio:Jack_6.35mm_Neutrik_NMJ6HCD2_Horizontal
+COMP J4 Power / Switch Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical
+COMP J5 Piezo A Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+COMP J6 Piezo B Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+COMP J7 Gate off Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+COMP J8 Out A Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+COMP J9 Out B Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+COMP Q1 MMBT3904 Package_TO_SOT_SMD:SOT-23
+COMP Q2 MMBT3904 Package_TO_SOT_SMD:SOT-23
+COMP Q3 2N7002 Package_TO_SOT_SMD:SOT-23
+COMP Q4 2N7002 Package_TO_SOT_SMD:SOT-23
+COMP R10 470R Resistor_SMD:R_0603_1608Metric
+COMP R11 1M Resistor_SMD:R_0603_1608Metric
+COMP R12 1k Resistor_SMD:R_0603_1608Metric
+COMP R13 1.5k Resistor_SMD:R_0603_1608Metric
+COMP R20 470R Resistor_SMD:R_0603_1608Metric
+COMP R21 1M Resistor_SMD:R_0603_1608Metric
+COMP R22 1k Resistor_SMD:R_0603_1608Metric
+COMP R23 1.5k Resistor_SMD:R_0603_1608Metric
+COMP R24 100k Resistor_SMD:R_0603_1608Metric
+COMP R25 10k Resistor_SMD:R_0603_1608Metric
+COMP R26 10k Resistor_SMD:R_0603_1608Metric
+COMP R27 10k Resistor_SMD:R_0603_1608Metric
+COMP R30 10R Resistor_SMD:R_0603_1608Metric
+COMP R31 10k Resistor_SMD:R_0603_1608Metric
+COMP R32 10k Resistor_SMD:R_0603_1608Metric
+COMP R33 47k Resistor_SMD:R_0603_1608Metric
+COMP R40 10k Resistor_SMD:R_0603_1608Metric
+COMP R41 100R Resistor_SMD:R_0603_1608Metric
+COMP R42 100R Resistor_SMD:R_0603_1608Metric
+COMP R43 22k Resistor_SMD:R_0603_1608Metric
+COMP R45 100R Resistor_SMD:R_0603_1608Metric
+COMP R46 100k Resistor_SMD:R_0603_1608Metric
+COMP R47 100k Resistor_SMD:R_0603_1608Metric
+COMP R50 1M Resistor_SMD:R_0603_1608Metric
+COMP R51 4.7k Resistor_SMD:R_0603_1608Metric
+COMP R52 470k Resistor_SMD:R_0603_1608Metric
+COMP RV1 10k Potentiometer_THT:Potentiometer_Runtron_RM-065_Vertical
+COMP RV2 10k Potentiometer_THT:Potentiometer_Runtron_RM-065_Vertical
+COMP RV3 5k Potentiometer_THT:Potentiometer_Runtron_RM-065_Vertical
+COMP RV5 10k log Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Horizontal
+COMP RV6 1M Potentiometer_THT:Potentiometer_Runtron_RM-065_Vertical
+COMP SW2 Polarity / Filter Button_Switch_THT:SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm
+COMP U1 NE5532DR Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
+COMP U2 NE5532DR Package_SO:SOIC-8_3.9x4.9mm_P1.27mm
+NET /A_OUT : C12.2 C13.2 R45.1 RV1.1 U1.1
+NET /BLEND : C43.1 C50.1 RV3.2 SW2.2
+NET /B_AC : C42.2 J9.1 R47.1
+NET /GATE : J7.1 Q2.3 Q3.1 Q4.1 R52.2
+NET /HPF : C43.2 R40.1 R43.1 SW2.7
+NET /LPF : C40.1 C44.1 Q3.3 R40.2 U2.5
+NET /LPF2_SW : C44.2 SW2.4
+NET /LPF_SW : C40.2 SW2.3
+NET /POL_P : R27.2 SW2.1 U2.3
+NET /VIN : J4.1
+NET /VREF : C33.1 Q4.3 R24.2 R31.2 R32.1 R33.1 R43.2 SW2.5 SW2.6 SW2.8
+NET /VREF_IN : C34.1 R11.2 R21.2 R33.2
+NET GND : C11.2 C21.2 C30.2 C31.2 C32.2 C33.2 C34.2 C52.2 D10.1 D20.1 D50.1 J3.S J4.3 J5.2 J6.2 J7.2 J8.2 J9.2 Q1.2 Q2.2 R32.2 R46.2 R47.2 RV5.1 U1.4 U2.4
+NET Net-(C10-Pad2) : C10.2 R10.1
+NET Net-(C11-Pad1) : C11.1 R12.2
+NET Net-(C13-Pad1) : C13.1 RV3.1
+NET Net-(C20-Pad2) : C20.2 R20.1
+NET Net-(C21-Pad1) : C21.1 R22.2
+NET Net-(C22-Pad2) : C22.2 C23.2 RV2.1 U1.7
+NET Net-(C23-Pad1) : C23.1 R24.1 R25.1 R27.1
+NET Net-(C41-Pad1) : C41.1 R41.2
+NET Net-(C41-Pad2) : C41.2 RV5.3
+NET Net-(C42-Pad1) : C42.1 R42.2
+NET Net-(C45-Pad1) : C45.1 R45.2
+NET Net-(C50-Pad2) : C50.2 RV6.1
+NET Net-(C51-Pad2) : C51.2 D50.3
+NET Net-(D1-A) : D1.2 J4.2
+NET Net-(D1-K) : D1.1 R30.1
+NET Net-(D50-A) : C52.1 D50.2 Q2.1
+NET Net-(J3-PadT) : J3.T RV5.2
+NET Net-(J5-Pin_1) : C10.1 J5.1
+NET Net-(J6-Pin_1) : C20.1 J6.1
+NET Net-(J8-Pin_1) : C45.2 J8.1 R46.1
+NET Net-(Q1-B) : Q1.1 R50.1 RV6.2 RV6.3
+NET Net-(Q1-C) : C51.1 Q1.3 R50.2 R51.2
+NET Net-(Q3-S) : Q3.2 Q4.2
+NET Net-(R12-Pad1) : R12.1 R13.2 RV1.3
+NET Net-(R22-Pad1) : R22.1 R23.2 RV2.3
+NET Net-(R26-Pad2) : R26.2 R42.1 RV3.3 U2.1
+NET Net-(U1A-+) : D10.3 R10.2 R11.1 U1.3
+NET Net-(U1A--) : C12.1 R13.1 RV1.2 U1.2
+NET Net-(U1B-+) : D20.3 R20.2 R21.1 U1.5
+NET Net-(U1B--) : C22.1 R23.1 RV2.2 U1.6
+NET Net-(U2A--) : R25.2 R26.1 U2.2
+NET Net-(U2B--) : R41.1 U2.6 U2.7
+NET VCC : C30.1 C31.1 C32.1 D10.2 D20.2 R30.2 R31.1 R51.1 R52.1 U1.8 U2.8
+NET unconnected-(J3-PadR) : J3.R
+NET unconnected-(J3-PadRN) : J3.RN
+NET unconnected-(J3-PadTN) : J3.TN
